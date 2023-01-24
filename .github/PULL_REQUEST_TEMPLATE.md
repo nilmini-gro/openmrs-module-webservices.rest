@@ -16,10 +16,6 @@ see https://issues.openmrs.org/browse/RESTWS-
 ## Checklist: I completed these to help reviewers :)
 <!--- Put an `x` in the box if you did the task -->
 <!--- If you forgot a task please follow the instructions below -->
-- [ ] My pull request only contains **ONE single commit**
-(the number above, next to the 'Commits' tab is 1).
-
-  No? -> [read here](https://wiki.openmrs.org/display/docs/Pull+Request+Tips) on how to squash multiple commits into one
 
 - [ ] My IDE is configured to follow the [**code style**](https://wiki.openmrs.org/display/docs/Java+Conventions) of this project.
 
